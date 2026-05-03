@@ -6,7 +6,7 @@
 
 Aurekai integration surface for Codespaces.
 
-Status: planned
+Status: active
 Type: ide
 
 ## Core Template Set
